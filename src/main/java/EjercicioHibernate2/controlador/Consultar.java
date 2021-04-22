@@ -21,6 +21,7 @@ import EjercicioHibernate2.principal.Principal;
 import EjercicioHibernate2.vista.Menu;
 
 public class Consultar {
+	//Logger
 	private static Logger logger = LogManager.getLogger(Principal.class);
 	private Session session;
 
